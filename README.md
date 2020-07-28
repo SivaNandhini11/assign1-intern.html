@@ -1,2 +1,2 @@
 # index.html
-assignment1-intern
+index1.html
